@@ -7,6 +7,7 @@ A collection of GIS maps created for university coursework, demonstrating profic
 ![hydro regions](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_regions.jpg?raw=true)
 ![terrain resolution](https://github.com/avaerickson/Cartography/blob/main/Maps/terrain_resolution.jpg?raw=true)
 ![hydro dem](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_dem.jpg?raw=true)
-![lcp accumulated cost](https://github.com/avaerickson/Cartography/blob/main/Maps/lcp_accumulated_cost.jpg?raw=true)
 ![terrain aspect](https://github.com/avaerickson/Cartography/blob/main/Maps/terrain_aspect.jpg?raw=true)
+![lcp accumulated cost](https://github.com/avaerickson/Cartography/blob/main/Maps/lcp_accumulated_cost.jpg?raw=true)
+
 
