@@ -6,8 +6,11 @@ Least-cost-path analysis using landcover friction raster and digital elevation m
 
 
 ![hydro stream order](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_stream_order.jpg?raw=true)
+Hydrology analysis using a conditional statement to isolate areas of high flow accumulation (DEM derrived) and visualizing stream order based on Strahler ordering system.
+
+
 ![hydro lcp](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_lcp.jpg?raw=true)
-Combining least-cost-path and hydrology methods to use DEM derrived flow accumulation and flow direction rasters as inputs for least-cost-path computation to track the likely flow of a pollutant from a defined Origin.
+Combining least-cost-path and hydrology methods to use DEM derrived flow accumulation and flow direction rasters as inputs for least-cost-path computation to track the likely flow of a pollutant from a defined source.
 
 ![basin model](https://github.com/avaerickson/Cartography/blob/main/Maps/river_basin_model.png?raw=true)
 ![hydro regions](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_regions.jpg?raw=true)
