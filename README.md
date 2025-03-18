@@ -17,11 +17,11 @@ Hydrology analysis using a conditional statement to isolate large water basins d
 
 
 ![hydro regions](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_regions.jpg?raw=true)
-Hydrology analysis defining connected regions of high flow accumulation and high wetness index, which reveals isolated areas where pollutants may spread quickly and easily. 
+Hydrology analysis defining connected regions of high flow accumulation and high wetness index, which reveals isolated areas where pollutants may spread quickly and easily (4-neighbor connectedness). 
 
 
 ![terrain resolution](https://github.com/avaerickson/Cartography/blob/main/Maps/terrain_resolution.jpg?raw=true)
-
+Visualizing the impact of coarse vs. fine resolution on slope data, which can have terrain analysis implications. Resolution and slope relationship must be considered when selecting interpolaton methods during geoprocessing tasks. 
 
 
 ![hydro dem](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_dem.jpg?raw=true)
