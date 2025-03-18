@@ -29,7 +29,7 @@ Terrain and Hydrology analysis using DEM to create a hillshade to display flow a
 
 
 ![terrain aspect](https://github.com/avaerickson/Cartography/blob/main/Maps/terrain_aspect.jpg?raw=true)
-
+Terrain analysis using DEM to depict the direction each cell's slope is facing. 
 
 
 ![accumulated cost](https://github.com/avaerickson/Cartography/blob/main/Maps/lcp_accumulated_cost.jpg?raw=true)
