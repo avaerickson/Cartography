@@ -5,11 +5,10 @@ A collection of GIS maps created for university coursework, demonstrating profic
 Least-cost-path analysis using landcover friction raster and digital elevation model to map best routes for accessing pre-defined timber locations from a sawmill.
 
 
-
-
 ![hydro stream order](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_stream_order.jpg?raw=true)
-
 ![hydro lcp](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_lcp.jpg?raw=true)
+Combining least-cost-path and hydrology methods to use DEM derrived flow accumulation and flow direction rasters as inputs for least-cost-path computation to track the likely flow of a pollutant from a defined Origin.
+
 ![basin model](https://github.com/avaerickson/Cartography/blob/main/Maps/river_basin_model.png?raw=true)
 ![hydro regions](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_regions.jpg?raw=true)
 Hydrology analysis defining connected regions of high flow accumulation and high wetness index, which reveals isolated areas where pollutants may spread quickly and easily. 
