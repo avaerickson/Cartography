@@ -27,4 +27,4 @@ Visualizing the impact of coarse vs. fine resolution on slope data, which can ha
 Terrain analysis using DEM to depict the direction each cell's slope is facing. 
 
 ![GCW Habitat](https://github.com/avaerickson/GCW_Habitat_Analysis/raw/main/images/gcw_amnt_dev.png?raw=true)
-Habitat analysis performed with transition matrices to identify landcover change from 2001 to 2021.
+Habitat analysis performed with transition matrices to identify landcover change from forest to developed.
