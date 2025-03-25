@@ -8,6 +8,8 @@ Least-cost-path analysis using landcover friction raster and digital elevation m
 ![hydro stream order](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_stream_order.jpg?raw=true)
 Hydrology analysis using a conditional statement to isolate areas of high flow accumulation (DEM derrived) to predict stream locations. Visualizing stream order based on Strahler ordering system.
 
+![viewshed telecom](https://github.com/avaerickson/Cartography/blob/main/Maps/viewshed_telecom.jpg?raw=true)
+Viewshed analysis using DEM informed line-of-sight algorithm to identify areas accessible by telecom signal, constrained by direction.
 
 ![hydro lcp](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_lcp.jpg?raw=true)
 Combining least-cost-path and hydrology methods to use DEM derrived flow accumulation and flow direction rasters as inputs for least-cost-path computation to track the likely flow of a pollutant from a defined source.
