@@ -26,11 +26,3 @@ Visualizing the impact of coarse vs. fine resolution on slope data, which can ha
 ![terrain aspect](https://github.com/avaerickson/Cartography/blob/main/Maps/terrain_aspect.jpg?raw=true)
 Terrain analysis using DEM to depict the direction each cell's slope is facing. 
 
-![hydro regions](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_regions.jpg?raw=true)
-Hydrology analysis defining connected regions of high flow accumulation and high wetness index, which reveals isolated areas where pollutants may spread quickly and easily (4-neighbor connectedness). 
-
-![hydro dem](https://github.com/avaerickson/Cartography/blob/main/Maps/hydro_dem.jpg?raw=true)
-Terrain and Hydrology analysis using DEM to create a hillshade to display flow accumulation, predicting location of streams. 
-
-![accumulated cost](https://github.com/avaerickson/Cartography/blob/main/Maps/lcp_accumulated_cost.jpg?raw=true)
-Least-cost-path analysis using landcover friction raster (accumulated cost raster) to determine, cell-by-cell, the easiest path from Origin to Destination. Contour lines visualize accumulated cost and cluster at areas of extremely high cost.
