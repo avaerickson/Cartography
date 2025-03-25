@@ -1,5 +1,5 @@
 # Cartography
-A collection of GIS maps created for university coursework, demonstrating proficiency in spatial analysis and cartographic design. Includes examples of hydrology, terrain, and least-cost-path modeling:
+A collection of GIS maps created for university coursework, demonstrating proficiency in spatial analysis and cartographic design. Includes examples of hydrology, terrain, viewshed, and least-cost-path modeling:
 
 ![viewshed guad peak](https://github.com/avaerickson/Cartography/blob/main/Maps/viewshed_guad_peak.jpg?raw=true)
 Viewshed analysis using DEM informed line-of-sight algorithm to identify all cells visible from Guadalupe Peak.
